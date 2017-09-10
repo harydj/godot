@@ -37,32 +37,32 @@ msgstr "Pindahkan Kunci Tambah"
 #: editor/animation_editor.cpp
 #, fuzzy
 msgid "Anim Change Transition"
-msgstr "Ubah Transisi Anim"
+msgstr "Anim Mengubah Transisi"
 
 #: editor/animation_editor.cpp
 #, fuzzy
 msgid "Anim Change Transform"
-msgstr "Ubah Transformasi Anim"
+msgstr "Anim Mengubah Transform"
 
 #: editor/animation_editor.cpp
 #, fuzzy
 msgid "Anim Change Value"
-msgstr "Ubah Nilai Anim"
+msgstr "Anim Mengubah Nilai"
 
 #: editor/animation_editor.cpp
 #, fuzzy
 msgid "Anim Change Call"
-msgstr "Ubah Panggilan Anim"
+msgstr "Anim Mengubah Panggilan"
 
 #: editor/animation_editor.cpp
 #, fuzzy
 msgid "Anim Add Track"
-msgstr "Tambah Track Anim"
+msgstr "Anim Menambah Track"
 
 #: editor/animation_editor.cpp
 #, fuzzy
 msgid "Anim Duplicate Keys"
-msgstr "Duplikat Tombol Anim"
+msgstr "Anim Duplikat Tombol-tombol"
 
 #: editor/animation_editor.cpp
 #, fuzzy
@@ -86,11 +86,11 @@ msgstr "Atur transisi ke:"
 #: editor/animation_editor.cpp
 #, fuzzy
 msgid "Anim Track Rename"
-msgstr "Namai Kembali Track Anim"
+msgstr "Ganti Nama Track Anim"
 
 #: editor/animation_editor.cpp
 msgid "Anim Track Change Interpolation"
-msgstr ""
+msgstr "Ganti Penyisipan Track Anim"
 
 #: editor/animation_editor.cpp
 msgid "Anim Track Change Value Mode"
@@ -148,7 +148,7 @@ msgstr "Pindahkan Kunci Anim"
 #: editor/animation_editor.cpp
 #, fuzzy
 msgid "Scale Selection"
-msgstr "Beri Skala Seleksi"
+msgstr "Beri Skala pada Pilihan"
 
 #: editor/animation_editor.cpp
 #, fuzzy
@@ -161,7 +161,7 @@ msgstr "Lanjut ke Langkah Berikutnya"
 
 #: editor/animation_editor.cpp
 msgid "Goto Prev Step"
-msgstr "Lanjut ke Langkah Sebelumnya"
+msgstr "Kembali ke Langkah Sebelumnya"
 
 #: editor/animation_editor.cpp editor/plugins/curve_editor_plugin.cpp
 #: editor/property_editor.cpp
@@ -223,17 +223,17 @@ msgstr "Buat"
 #: editor/animation_editor.cpp
 #, fuzzy
 msgid "Anim Create & Insert"
-msgstr "Anim Buat & Masukan"
+msgstr "Anim Membuat & Memasukkan"
 
 #: editor/animation_editor.cpp
 #, fuzzy
 msgid "Anim Insert Track & Key"
-msgstr "Masukkan Track & Tombol Anim"
+msgstr "Anim Memasukkan Track & Tombol"
 
 #: editor/animation_editor.cpp
 #, fuzzy
 msgid "Anim Insert Key"
-msgstr "Anim Masukkan Tombol"
+msgstr "Anim Memasukkan Tombol"
 
 #: editor/animation_editor.cpp
 msgid "Change Anim Len"
@@ -250,7 +250,7 @@ msgstr "Buat Nilai Kunci Animasi Tertulis"
 #: editor/animation_editor.cpp
 #, fuzzy
 msgid "Anim Insert"
-msgstr "Anim Masukkan"
+msgstr "Anim Memasukkan"
 
 #: editor/animation_editor.cpp
 msgid "Anim Scale Keys"
@@ -286,7 +286,7 @@ msgstr "Aktifkan/Nonaktifkan pengulangan dalam animasi."
 
 #: editor/animation_editor.cpp
 msgid "Add new tracks."
-msgstr "Tambah tracks baru."
+msgstr "Tambahkan tracks baru."
 
 #: editor/animation_editor.cpp
 msgid "Move current track up."
@@ -311,7 +311,7 @@ msgstr "Aktifkan penyuntingan tombol-tombol individual dengan mengkliknya."
 #: editor/animation_editor.cpp
 #, fuzzy
 msgid "Anim. Optimizer"
-msgstr "Anim. Optimisasi"
+msgstr "Anim. Pengoptimasi"
 
 #: editor/animation_editor.cpp
 msgid "Max. Linear Error:"
@@ -383,11 +383,11 @@ msgstr "Ubah Nilai Array"
 
 #: editor/asset_library_editor_plugin.cpp
 msgid "Free"
-msgstr ""
+msgstr "Bebas"
 
 #: editor/asset_library_editor_plugin.cpp editor/editor_plugin_settings.cpp
 msgid "Version:"
-msgstr ""
+msgstr "Versi"
 
 #: editor/asset_library_editor_plugin.cpp
 #, fuzzy
@@ -397,7 +397,7 @@ msgstr "Konstanta:"
 #: editor/asset_library_editor_plugin.cpp
 #, fuzzy
 msgid "View Files"
-msgstr "File:"
+msgstr "Lihat File:"
 
 #: editor/asset_library_editor_plugin.cpp editor/create_dialog.cpp
 #: editor/editor_help.cpp editor/property_selector.cpp
@@ -408,7 +408,7 @@ msgstr "Deskripsi:"
 #: editor/asset_library_editor_plugin.cpp editor/editor_asset_installer.cpp
 #: editor/project_manager.cpp
 msgid "Install"
-msgstr ""
+msgstr "Memasang"
 
 #: editor/asset_library_editor_plugin.cpp editor/call_dialog.cpp
 #: editor/connections_dialog.cpp editor/export_template_manager.cpp
@@ -426,46 +426,46 @@ msgstr "Tutup"
 
 #: editor/asset_library_editor_plugin.cpp
 msgid "Can't resolve hostname:"
-msgstr ""
+msgstr "Tidak dapat memperbaiki hostname:"
 
 #: editor/asset_library_editor_plugin.cpp
 msgid "Can't resolve."
-msgstr ""
+msgstr "Tidak dapat memperbaiki."
 
 #: editor/asset_library_editor_plugin.cpp
 msgid "Connection error, please try again."
-msgstr ""
+msgstr "Koneksi bermasalah, silahkan coba lagi."
 
 #: editor/asset_library_editor_plugin.cpp
 #, fuzzy
 msgid "Can't connect."
-msgstr "Menyambungkan.."
+msgstr "Tidak dapat menyambungkan."
 
 #: editor/asset_library_editor_plugin.cpp
 #, fuzzy
 msgid "Can't connect to host:"
-msgstr "Sambungkan Ke Node:"
+msgstr "Tidak dapat menyambungkan ke host:"
 
 #: editor/asset_library_editor_plugin.cpp
 msgid "No response from host:"
-msgstr ""
+msgstr "Tidak ada respon dari host"
 
 #: editor/asset_library_editor_plugin.cpp
 msgid "No response."
-msgstr ""
+msgstr "Tidak ada Respon."
 
 #: editor/asset_library_editor_plugin.cpp
 #, fuzzy
 msgid "Request failed, return code:"
-msgstr "Format file yang diminta tidak diketahui:"
+msgstr "Permintaan gagal, mengembalikan code:"
 
 #: editor/asset_library_editor_plugin.cpp
 msgid "Req. Failed."
-msgstr ""
+msgstr "Req. Gagal"
 
 #: editor/asset_library_editor_plugin.cpp
 msgid "Request failed, too many redirects"
-msgstr ""
+msgstr "Permintaan gagal, terlalu banyak pengalihan"
 
 #: editor/asset_library_editor_plugin.cpp
 msgid "Redirect Loop."
@@ -473,7 +473,7 @@ msgstr ""
 
 #: editor/asset_library_editor_plugin.cpp
 msgid "Failed:"
-msgstr ""
+msgstr "Gagal:"
 
 #: editor/asset_library_editor_plugin.cpp
 msgid "Bad download hash, assuming file has been tampered with."
@@ -497,15 +497,15 @@ msgstr ""
 
 #: editor/asset_library_editor_plugin.cpp editor/editor_asset_installer.cpp
 msgid "Success!"
-msgstr ""
+msgstr "Berhasil!"
 
 #: editor/asset_library_editor_plugin.cpp
 msgid "Fetching:"
-msgstr ""
+msgstr "Mengambil:"
 
 #: editor/asset_library_editor_plugin.cpp
 msgid "Resolving.."
-msgstr ""
+msgstr "Menyelesaikan.."
 
 #: editor/asset_library_editor_plugin.cpp
 #, fuzzy
@@ -515,20 +515,20 @@ msgstr "Menyambungkan.."
 #: editor/asset_library_editor_plugin.cpp
 #, fuzzy
 msgid "Requesting.."
-msgstr "Menguji"
+msgstr "Menminta.."
 
 #: editor/asset_library_editor_plugin.cpp
 #, fuzzy
 msgid "Error making request"
-msgstr "Error menyimpan resource!"
+msgstr "Gagal membuat permintan!"
 
 #: editor/asset_library_editor_plugin.cpp
 msgid "Idle"
-msgstr ""
+msgstr "Diam"
 
 #: editor/asset_library_editor_plugin.cpp
 msgid "Retry"
-msgstr ""
+msgstr "Ulang"
 
 #: editor/asset_library_editor_plugin.cpp
 msgid "Download Error"
@@ -540,19 +540,19 @@ msgstr ""
 
 #: editor/asset_library_editor_plugin.cpp
 msgid "first"
-msgstr ""
+msgstr "Pertama"
 
 #: editor/asset_library_editor_plugin.cpp
 msgid "prev"
-msgstr ""
+msgstr "Sebelumnya"
 
 #: editor/asset_library_editor_plugin.cpp
 msgid "next"
-msgstr ""
+msgstr "Selanjutnya"
 
 #: editor/asset_library_editor_plugin.cpp
 msgid "last"
-msgstr ""
+msgstr "Terakhir"
 
 #: editor/asset_library_editor_plugin.cpp
 msgid "All"
